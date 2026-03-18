@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=+PLAYER+1+HAS+ENTERED+THE+GAME...;Cybersecurity+%F0%9F%94%91+%7C+Full-Stack+%F0%9F%9B%A0+%7C+AI+Researcher+%F0%9F%A4%96;B.Tech+CSE+%E2%80%94+Cybersecurity+Specialization;Currently+grinding%3A+VAPT+%2B+MERN+%2B+AI...;Edge+AI+Security+Researcher+%F0%9F%A7%A0;INSERT+COIN+TO+COLLABORATE+%F0%9F%AA%99" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=+SHLOK+HAS+ENTERED+THE+GAME...;Cybersecurity+%F0%9F%94%91+%7C+Full-Stack+%F0%9F%9B%A0+%7C+AI+Researcher+%F0%9F%A4%96;B.Tech+CSE+%E2%80%94+Cybersecurity+Specialization;Currently+grinding%3A+VAPT+%2B+MERN+%2B+AI...;Edge+AI+Security+Researcher+%F0%9F%A7%A0;INSERT+COIN+TO+COLLABORATE+%F0%9F%AA%99" alt="Typing SVG" />
 
 </div>
 
@@ -64,10 +64,7 @@ const shlok = {
 ### 🔐 Security
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+
 
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -85,8 +82,6 @@ const shlok = {
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -95,9 +90,7 @@ const shlok = {
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+
 
 </div>
 
@@ -118,7 +111,9 @@ const shlok = {
 | 🎮 Quest | 📋 Description | 🏆 Status |
 |:--------:|:--------------|:---------:|
 | `[MAIN]` | ⚛️ MERN Stack Mastery | ![Active](https://img.shields.io/badge/ACTIVE-00ff41?style=flat-square) |
-| `[SIDE]` | 🎮 3D Retro Arcade Portfolio (Three.js) | ![Building](https://img.shields.io/badge/BUILDING-00f5ff?style=flat-square) |
+| `[SIDE]` | 🎮 3D Retro Arcade Portfolio — www.shlokburmi.space| ![Live](https://img.shields.io/badge/LIVE-a78bfa?style=flat-square) |
+| `[MAIN]` | 🎮 🤖 AI Research & Integration | ![Active](https://img.shields.io/badge/ACTIVE-00ff41?style=flat-square) |
+
 
 </div>
 
@@ -193,13 +188,15 @@ const shlok = {
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  📄  "Improved Secure Communication in Edge AI Through           │
-│       an Efficient DH-AES Hybrid Mechanism"                     │
-│                                                                  │
-│  📰  Journal  : Sadhana (Springer) — Under Review               │
-│  👥  Authors  : Shlok Burmi · Yuvraj Deshmukh                   │
-│                 Sujal Kishore · Zeesha Mishra                   │
-│  🔑  Keywords : Edge AI · Cryptography · DH · AES · Security    │
+│  📄  "Comparative Analysis of Enhanced Weighted A*             |
+|       and Theta* Search Algorithms on Pacman Mazes"             │
+│                                                                 │
+│  🏛️  Conference : ICASS-2026 (IEEE)                             |
+│  📍  Venue     : Manav Rachna University — Feb 12-13, 2026      │
+│  🎯  Focus     : Game Tree Optimization · Adversarial AI        │
+│  🔑  Keywords  : Weighted A* · Theta * · Heuristics             │
+│                  Real-Time Decision Making · Search Optimization │
+│  🙏  Mentors   : Dr. Shweta Malwe · Prof. Prachi Mehta          │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -226,8 +223,7 @@ const shlok = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-burmi-78368028a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlokburmi2057@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shlokburmi)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shlokburmi)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/shlokburmi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00f5ff)](https://www.shlokburmi.space)
 
 <br/>
 
