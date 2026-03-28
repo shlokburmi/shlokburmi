@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SHLOK%20BURMI&fontSize=70&fontColor=00f5ff&fontAlignY=38&desc=Security%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Researcher&descColor=a78bfa&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=SHLOK%20BURMI&fontSize=65&fontColor=00f5ff&fontAlignY=38&desc=Security%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Researcher&descColor=a78bfa&descSize=17&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00F5FF&center=true&vCenter=true&width=750&lines=+SHLOK+HAS+ENTERED+THE+GAME...;Cybersecurity+%F0%9F%94%91+%7C+Full-Stack+%F0%9F%9B%A0+%7C+AI+Researcher+%F0%9F%A4%96;B.Tech+CSE+%E2%80%94+Cybersecurity+Specialization;Currently+grinding%3A+VAPT+%2B+MERN+%2B+AI...;Edge+AI+Security+Researcher+%F0%9F%A7%A0;INSERT+COIN+TO+COLLABORATE+%F0%9F%AA%99" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00F5FF&center=true&vCenter=true&width=780&lines=+SHLOK+HAS+ENTERED+THE+GAME...;Cybersecurity+%F0%9F%94%91+%7C+Full-Stack+%F0%9F%9B%A0+%7C+AI+Researcher+%F0%9F%A4%96;B.Tech+CSE+%E2%80%94+Cybersecurity+Specialization;Currently+grinding%3A+VAPT+%2B+MERN+%2B+AI...;Edge+AI+Security+Researcher+%F0%9F%A7%A0;INSERT+COIN+TO+COLLABORATE+%F0%9F%AA%99" alt="Typing SVG" />
 
 </div>
 
@@ -32,6 +32,7 @@ const shlok = {
   role      : "Cybersecurity Engineer + Full-Stack Dev",
   education : "B.Tech CSE • Cybersecurity Specialization",
   year      : "3rd Year 🎓",
+  portfolio : "www.shlokburmi.space 🚀",
 
   currentlyWorking: [
     "🔐 Cybersecurity & AI Projects",
@@ -65,7 +66,6 @@ const shlok = {
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-
 ### 💻 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -91,7 +91,6 @@ const shlok = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
 </div>
 
 ---
@@ -111,9 +110,37 @@ const shlok = {
 | 🎮 Quest | 📋 Description | 🏆 Status |
 |:--------:|:--------------|:---------:|
 | `[MAIN]` | ⚛️ MERN Stack Mastery | ![Active](https://img.shields.io/badge/ACTIVE-00ff41?style=flat-square) |
-| `[SIDE]` | 🎮 3D Retro Arcade Portfolio — www.shlokburmi.space| ![Live](https://img.shields.io/badge/LIVE-a78bfa?style=flat-square) |
-| `[MAIN]` | 🎮 🤖 AI Research & Integration | ![Active](https://img.shields.io/badge/ACTIVE-00ff41?style=flat-square) |
+| `[MAIN]` | 🤖 AI Research & Integration | ![Active](https://img.shields.io/badge/ACTIVE-00ff41?style=flat-square) |
+| `[SIDE]` | 🎮 3D Retro Arcade Portfolio | ![Live](https://img.shields.io/badge/LIVE-a78bfa?style=flat-square) |
+| `[SIDE]` | 🌐 Portfolio — www.shlokburmi.space | ![Live](https://img.shields.io/badge/LIVE-a78bfa?style=flat-square) |
 
+</div>
+
+---
+
+<div align="center">
+
+## 🔬 &nbsp;RESEARCH PUBLICATION&nbsp; 🔬
+
+<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="340"/>
+
+</div>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  📄  "Comparative Analysis of Enhanced Weighted A*                  │
+│       and Theta* Search Algorithms on Pacman Mazes"                 │
+│                                                                     │
+│  🏛️  Conference : ICASS-2026 (IEEE)                                 │
+│  📍  Venue     : Manav Rachna University — Feb 12-13, 2026         │
+│  🎯  Focus     : Game Tree Optimization · Adversarial AI           │
+│  🔑  Keywords  : Weighted A* · Theta* · Heuristics                 │
+│                  Real-Time Decision Making · Search Optimization    │
+│  🙏  Mentors   : Dr. Shweta Malwe · Prof. Prachi Mehta            │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -127,15 +154,20 @@ const shlok = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shlokburmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=15&include_all_commits=false&count_private=false" width="49%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=shlokburmi&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&border_radius=15" width="49%"/>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=shlokburmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=15&include_all_commits=true&count_private=true" width="49%"/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=shlokburmi&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&border_radius=15" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokburmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=15&include_all_commits=false&count_private=false" width="42%"/>
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokburmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=15&include_all_commits=true&count_private=true" width="42%"/>
 
 <br/>
 
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shlokburmi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff" width="98%"/>
 
 </div>
@@ -160,52 +192,6 @@ const shlok = {
 
 <div align="center">
 
-## 🏆 &nbsp;TOP CONTRIBUTED REPOS&nbsp; 🏆
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlokburmi&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=15&langs_count=8" width="35%"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shlokburmi/shlokburmi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shlokburmi/shlokburmi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shlokburmi/shlokburmi/output/github-snake-dark.svg" width="98%"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔬 &nbsp;RESEARCH PUBLICATION&nbsp; 🔬
-
-<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="340"/>
-
-</div>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  📄  "Comparative Analysis of Enhanced Weighted A*             |
-|       and Theta* Search Algorithms on Pacman Mazes"             │
-│                                                                 │
-│  🏛️  Conference : ICASS-2026 (IEEE)                             |
-│  📍  Venue     : Manav Rachna University — Feb 12-13, 2026      │
-│  🎯  Focus     : Game Tree Optimization · Adversarial AI        │
-│  🔑  Keywords  : Weighted A* · Theta * · Heuristics             │
-│                  Real-Time Decision Making · Search Optimization │
-│  🙏  Mentors   : Dr. Shweta Malwe · Prof. Prachi Mehta          │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
 ## ✍️ &nbsp;RANDOM DEV QUOTE&nbsp; ✍️
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
@@ -220,10 +206,10 @@ const shlok = {
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00f5ff)](https://www.shlokburmi.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlok-burmi-78368028a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlokburmi2057@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shlokburmi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00f5ff)](https://www.shlokburmi.space)
 
 <br/>
 
