@@ -29,9 +29,9 @@
 ```javascript
 const shlok = {
   name      : "Shlok Burmi",
-  role      : "Cybersecurity Engineer + Full-Stack Dev",
+  role      : "AI Engineer + Full-Stack Dev",
   education : "B.Tech CSE • Cybersecurity Specialization",
-  year      : "3rd Year 🎓",
+  year      : "4rd Year 🎓",
   portfolio : "www.shlokburmi.space 🚀",
 
   currentlyWorking: [
